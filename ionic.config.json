@@ -1,0 +1,7 @@
+{
+  "name": "ocmobileapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
